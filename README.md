@@ -1,11 +1,13 @@
 # Remote Work and Mental Health: A Data-Driven Analysis
-### Implemented by Sibashis Kumar Sahu
+#### Implemented by Sibashis Kumar Sahu
+
 
 
 This project analyzes how remote, hybrid, and onsite work impact well-being and productivity. The insights will help businesses optimize work policies, enhance productivity, and provide targeted mental health support. It also aids organizations in designing flexible work policies that balance employee well-being with business performance.
 
 
-### Insights from EDA
+
+## Insights from EDA
 
 1. Employees in the 40s age range might be underrepresented compared to other age groups, indicating a potential gap or anomaly in the dataset.
 2. Employees distribution is fairly uniform across different experience levels, with periodic dips around specific intervals (e.g., near 10, 20, and 30 years). These dips could indicate a potential lack of representation in those ranges or specific trends in the workforce composition.
